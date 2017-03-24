@@ -1,1 +1,4 @@
-﻿再次测试git
+﻿git 使用手册
+
+进入自己的仓库:
+cd F:warehouse/wahousegit

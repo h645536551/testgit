@@ -13,4 +13,5 @@ git remote add origin /*github地址*/
 
 上传github: git push origin master
 
-ddd
+克隆
+git clone <git地址>  <本地克隆文件名>

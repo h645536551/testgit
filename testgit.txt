@@ -1,5 +1,7 @@
 ﻿git 使用手册
 
+设置仓库: git init
+
 进入自己的仓库:
 cd F:warehouse/wahousegit
 
@@ -7,4 +9,8 @@ cd F:warehouse/wahousegit
 
 上传文件备注: git commit -m "备注信息"
 
+git remote add origin /*github地址*/
+
 上传github: git push origin master
+
+ddd
